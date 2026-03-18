@@ -31,7 +31,7 @@ Ferramentas Utilizadas:
 
 - Metasploitable 2
 
-- DVWA (Damn Vulnerable Web Application)
+- DVWA
 
 - Nmap
 
